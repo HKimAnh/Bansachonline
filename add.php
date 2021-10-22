@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="form-group row">
-                <label for="tenthuoc" class="col-sm-2 col-form-label">Tên thuốc</label>
+                <label for="tenthuoc" class="col-sm-2 col-form-label">Tên thuốc 11</label>
                 <div class="col-sm-10">
                 <input type="text" class="form-control" id="tenthuoc" name="tenthuoc">
                 </div>
