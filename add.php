@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="form-group row">
-                <label for="loaithuoc" class="col-sm-2 col-form-label">Loại thuốc</label>
+                <label for="loaithuoc" class="col-sm-2 col-form-label">Loại thuốc 111</label>
                 <div class="col-sm-10">
                 <input type="email" class="form-control" id="empEmail" name="empEmail">
                 </div>
