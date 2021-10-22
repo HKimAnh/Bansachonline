@@ -6,7 +6,7 @@
         <h2>Thêm thông tin thuốc</h2>
         <form action="process-add-employee.php" method="post">
             <div class="form-group row">
-                <label for="ID" class="col-sm-2 col-form-label">Mã thuốc123: </label>
+                <label for="ID" class="col-sm-2 col-form-label">Mã thuốc123456: </label>
                 <div class="col-sm-10">
                 <input type="text" class="form-control" id="id" name="id" >
                 </div>
